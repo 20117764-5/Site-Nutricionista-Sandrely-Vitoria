@@ -44,7 +44,7 @@
   
   /* ---------- Hero ---------- */
   .hero{min-height:92vh;padding-top:90px;display:flex;align-items:center;position:relative;overflow:hidden}
-  .hero-overlay{position:absolute;inset:0;background-image:url('assets/hero.png');background-size:cover;background-position:center;filter:brightness(0.45) contrast(1.05);}
+  .hero-overlay{position:absolute;inset:0;background-image:url('Assets/hero.png');background-size:cover;background-position:center;filter:brightness(0.45) contrast(1.05);}
   .hero-inner{display:flex;align-items:center;justify-content:space-between;gap:30px}
   .hero-left{position:relative;z-index:2;max-width:640px}
   .hero-title{font-family:'Playfair Display',serif;font-size:42px;color:#fff;line-height:1.05;margin-bottom:14px;text-shadow:0 6px 28px rgba(2,8,2,0.45)}
